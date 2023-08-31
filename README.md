@@ -27,9 +27,6 @@ Visit the website [here](https://srikanthmallam.github.io/Spotify-clone/).
 
 Feel free to fork the repository, make changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
