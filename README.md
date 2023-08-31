@@ -2,6 +2,7 @@
 # Spotify Clone Project
 
 This project is a basic imitation of the Spotify web player, created using HTML and CSS without JavaScript.
+
 Visit the website [here](https://srikanthmallam.github.io/Spotify-clone/).
 
 ## Features
